@@ -1,0 +1,7 @@
+dna:  # type 'File'
+    class: File
+    path: test/GCA_000002545.2.part.fna
+cms:  # type 'File'
+    class: File
+    path: data/Eukarya_4rRNA.cm
+evalue: "1e-10"
